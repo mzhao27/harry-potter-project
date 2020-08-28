@@ -1,0 +1,28 @@
+html {
+  background: url(https://images.pexels.com/photos/507410/pexels-photo-507410.jpeg?cs=srgb&dl=pexels-gabriela-palai-507410.jpg&fm=jpg)
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.homepagebox {
+  margin: 3%;
+  padding: 50px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  max-height: 100%;
+  height:max-content;
+}
+
+.boxtext {
+  color: #000000;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: x-large;
+  margin: 2%;
+  height: inherit;
+  text-align: center;
+}
