@@ -2,3 +2,6 @@
 
 ## About
 This is an experimental project which builds a simple website with React(FE) and Golang(BE).
+
+## API Leveraged
+https://www.potterapi.com
